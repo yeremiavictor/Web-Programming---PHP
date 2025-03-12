@@ -4,6 +4,6 @@
 <p>
     Berikut ini merupakan hal yang perlu dipersiapkan sebelum belajar PHP:
     <li>
-        <ul>1.Xampp </ul>
+        XAMPP
     </li>
 </p>
